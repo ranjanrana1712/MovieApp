@@ -1,10 +1,13 @@
 import React from  "react";
-import sub from "./Sub"
+import Sub from "./Sub";
 
 const App = ()=>{
 
     return(
-        <><h1>let do it Ranjan</h1></>
+        <><h1>let do it Ranjan</h1>
+          <Sub />
+        </>
+      
     )
     
 }
